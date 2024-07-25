@@ -130,3 +130,4 @@ func (cb Cube) Rotate(a Axis, idx int, c bool) Cube {
   return ret
 }
 ```
+# RUBIX_CUBE
